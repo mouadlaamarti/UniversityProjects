@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#products">Products</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <div class="header">
+        <a href="#" class="logo">
+            <img src="images/logo.png" alt="">
+        </a>
+
+        <nav class="navbar">
+            <a href="home">home</a>
+            <a href="about">about</a>
+            <a href="menu">menu</a>
+            <a href="products">products</a>
+            <a href="review">review</a>
+            <a href="contact">contacts</a>
+            <a href="blogs">blogs</a>
+            <a href="signin">sign in</a>
+        </nav>
+        <div id="cartOverlay" class="cart-overlay">
+        <div class="overlay-content">
+            <span class="close-btn" id="closeCart">&times;</span>
+            <h2>Your Shopping Cart</h2>
+            <div class="cart-items-2">
+
+                <div class="cartItemsList">
+                    <p>No items in your cart.</p>
+                </div>
+            </div>
+            <button class="checkout-btn">Checkout</button>
+        </div>
+    </div>
+
+        <div class="icons">
+            <div class="fas fa-search" id="search-btn"></div>
+            <div class="fas fa-shopping-cart cart-items" id="item-btn"></div>
+            <div class="fas fa-bars" id="menu-btn"></div>
+        </div>
+
+        <div class="search-form">
+            <input type="search" id="search-box" placeholder="search here...">
+            <label for="search-box" class="fas fa-search"></label>
+        </div>
+    </div>
+
+
+    <section class="home" id="home">
+        <div class="content">
+            <h3>Latest in Auto Parts</h3>
+            <p>Explore our latest arrivals in car parts, curated for performance and innovation. Upgrade your ride with the newest additions to our collection.</p>
+            <a href="#" class="btn">Find Your Parts</a>
+        </div>
+    </section>
+
+    <section class="about" id="about">
+        <h1 class="heading"><span>about</span> us </h1>
+        <div class="row">
+            <div class="image">
+                <img src="images/about-img.jpeg" alt="">
+            </div>
+            <div class="content">
+                <h1>What sets us apart in the world of car parts?</h1>
+                <p>Experience quality, variety, and dedicated service. Choose us for your car part needs.</p>
+                <p>Choose us because we prioritize quality, offer diverse options, and provide tailored service.</p>
+                <a href="#" class="btn">learn more</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="menu" id="menu">
+        <h1 class="heading"> our <span> menu </span></h1>
+        <div class="box-container">
+            <div class="box">
+                <img src="images/menu-1.jpg" alt="">
+                <h3>Crankshaft V6 engine</h3>
+                <div class="price">$249.99 <span> $254.99 </span></div>
+                <a href="#" class="btn add-to-cart-btn" data-product-id="1" data-product-name="Crankshaft V6 engine" data-product-price= 249.99 >add to cart</a>
+            </div>
+            <div class="box">
+                <img src="images/menu-2.jpg" alt="">
+                <h3>Brakes and Rotors Kit, ECCPP 2pcs Front Brake Rotors</h3>
+                <div class="price">$104.99 <span> $113.99 </span></div>
+                <a href="#" class="btn add-to-cart-btn" data-product-id="2" data-product-name="Brakes and Rotors Kit, ECCPP 2pcs Front Brake Rotors" data-product-price=113.99>add to cart</a>
+            </div>
+            <div class="box">
+                <img src="images/menu-3.jpg" alt="">
+                <h3>steering angle sensor calibration</h3>
+                <div class="price">$999.99 <span> $1499.99 </span></div>
+                <a href="#" class="btn add-to-cart-btn" data-product-id="3" data-product-name="steering angle sensor calibration" data-product-price=999.99>add to cart</a>
+            </div>
+            <div class="box">
+                <img src="images/menu-4.jpg" alt="">
+                <h3>4-speed EV transmission</h3>
+                <div class="price">1249.99 <span> $1499.99 </span></div>
+                <a href="#" class="btn add-to-cart-btn" data-product-id="4" data-product-name="4-speed EV transmission" data-product-price=1249.99>add to cart</a>
+            </div>
+            <div class="box">
+                <img src="images/menu-5.jpg" alt="">
+                <h3> Handles 4 PCS Front Rear Driver</h3>
+                <div class="price">$34.99 <span> $41.99 </span></div>
+                <a href="#" class="btn add-to-cart-btn" data-product-id="5" data-product-name=" Handles 4 PCS Front Rear Driver" data-product-price=34.99>add to cart</a>
+            </div>
+            <div class="box">
+                <img src="images/menu-6.jpg" alt="">
+                <h3>Car GPS Navigator 7-inchs Touch Screen Real</h3>
+                <div class="price">$57.99 <span> $59.99 </span></div>
+                <a href="#" class="btn add-to-cart-btn" data-product-id="6" data-product-name="Car GPS Navigator 7-inchs Touch Screen Real" data-product-price=57.99>add to cart</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="products" id="products">
+        <h1 class="heading"> our <span>products</span></h1>
+        <div class="box-container">
+            <div class="box">
+                <div class="icons">
+                    <a href="#" class="fas fa-shopping-cart"></a>
+                    <a href="#" class="fas fa-heart"></a>
+                    <a href="#" class="fa fa-eye"></a>
+                </div>
+                <div class="image">
+                    <img src="images/product-1.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>High Power H7 Car LED Headlight 1:1</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <div class="price">$22.99 <span>$29.99</span></div>
+                </div>
+            </div>
+            <div class="box">
+                <div class="icons">
+                    <a href="#" class="fas fa-shopping-cart"></a>
+                    <a href="#" class="fas fa-heart"></a>
+                    <a href="#" class="fa fa-eye"></a>
+                </div>
+                <div class="image">
+                    <img src="images/product-2.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>brake pads</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <div class="price">$21.99 <span>$26.99</span></div>
+                </div>
+            </div>
+            <div class="box">
+                <div class="icons">
+                    <a href="#" class="fas fa-shopping-cart"></a>
+                    <a href="#" class="fas fa-heart"></a>
+                    <a href="#" class="fa fa-eye"></a>
+                </div>
+                <div class="image">
+                    <img src="images/product-3.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>12V Smart Pulse Repair Charger</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <div class="price">$22.99 <span>$29.99</span></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="review" id="review">
+        <h1 class="heading"> customer's <span> review </span></h1>
+        <div class="box-container">
+            <div class="box">
+                <p>I ordered brake pads for my SUV, and the entire experience was seamless. The quality of the brake pads is excellent; they provide a smooth and reliable braking performance. I appreciated the detailed product descriptions and the ease of finding the right parts for my vehicle on their website. Shipping was fast, and the parts were well-packaged. I will definitely be a returning customer!</p>
+                <img src="images/quote-img1.jpg" class="user" alt="">
+                <h3> B. Claudiu </h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+            </div>
+            <div class="box">
+                <p>I recently purchased a set of LED headlight bulbs from MCSOLUTION and I couldn't be happier with the results. The installation was straightforward, and the improvement in visibility is remarkable. Driving at night has never been safer and more enjoyable. The customer service was also top-notch, guiding me through the selection process to ensure I got the perfect fit for my car. Highly recommend!</p>
+                <img src="images/quote-img2.jpg" class="user" alt="">
+                <h3> H. Ioana </h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+            </div>
+            <div class="box">
+                <p>The car battery charger I bought from MCSOLUTION has been a lifesaver. It's compact, easy to use, and works efficiently. My car battery died unexpectedly, and this charger brought it back to life quickly. The instructional guide was clear, and I felt confident using it even as someone who's not particularly car-savvy. Great product and excellent customer support!</p>
+                <img src="images/quote-img3.jpg" class="user" alt="">
+                <h3> L. Mouad </h3>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="contact" id="contact">
+        <h1 class="heading"> <span> contact </span>us</h1>
+
+        <div class="row">
+            <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10934.1549589728!2d23.574128095082575!3d46.75427638605797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47490dd6ac0e6abd%3A0x4aa71262e69ddfbc!2sZorilor%2C%20Cluj-Napoca!5e0!3m2!1sro!2sro!4v1716036719017!5m2!1sro!2sro"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+            <form action="">
+                <h3>get in touch</h3>
+                <div class="inputBox">
+                    <span class="fas fa-user"></span>
+                    <input type="text" placeholder="name">
+                </div>
+                <div class="inputBox">
+                    <span class="fas fa-envelope"></span>
+                    <input type="email" placeholder="email">
+                </div>
+                <div class="inputBox">
+                    <span class="fas fa-phone"></span>
+                    <input type="number" placeholder="number">
+                </div>
+                <input type="submit" class="btn" value="Contact Now">
+
+            </form>
+        </div>
+    </section>
+
+
+    <section class="blogs" id="blogs">
+
+        <h1 class="heading"> our <span> blogs </span></h1>
+        
+        <div class="box-container">
+
+            <div class="box">
+                <div class="">
+                    <img src="images/blog-1.jpg" alt="">
+                </div>
+                <div class="content">
+                    <a href="#" class="title">T10 Essential Car Maintenance Tips Every Driver Should Know</a>
+                    <span>by admin / 21st may, 2024</span>
+                    <p>This blog post provides practical advice on maintaining a vehicle, including tasks such as oil changes, tire care, fluid checks, and more, helping readers keep their cars in top condition</p>
+                    <a href="#" class="btn">read more</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="">
+                    <img src="images/blog-2.jpg" alt="">
+                </div>
+                <div class="content">
+                    <a href="#" class="title">The Complete Guide to Engine Oil: Types, Grades, and Maintenance Tips</a>
+                    <span>by admin / 21st may, 2024</span>
+                    <p>This blog post covers different types and grades of engine oil, how to choose the right oil for specific vehicles, and maintenance tips for ensuring optimal engine performance and longevity.</p>
+                    <a href="#" class="btn">read more</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="">
+                    <img src="images/blog-3.jpg" alt="">
+                </div>
+                <div class="content">
+                    <a href="#" class="title">Brake Basics: Understanding Your Vehicle's Brake System</a>
+                    <span>by admin / 21st may, 2024</span>
+                    <p>This blog post can provide an overview of how brakes work, including components like brake pads, rotors, calipers, and brake fluid. It can also cover common brake system designs and their functions.</p>
+                    <a href="#" class="btn">read more</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="footer">
+        <div class="share">
+            <a href="#" class="fab fa-facebook-f"></a>
+            <a href="#" class="fab fa-twitter"></a>
+            <a href="#" class="fab fa-instagram"></a>
+            <a href="#" class="fab fa-linkedin"></a>
+            <a href="#" class="fab fa-pinterest"></a>
+        </div>
+        
+        <div class="links">
+            <a href="#">home</a>
+            <a href="#">about</a>
+            <a href="#">menu</a>
+            <a href="#">products</a>
+            <a href="#">review</a>
+            <a href="#">contact</a>
+            <a href="#">blogs</a>
+        </div>
+
+        <div class="credit">created by <span> Mr. Mouad and Mr. Claudiu</span> | all rights reserved</div>
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

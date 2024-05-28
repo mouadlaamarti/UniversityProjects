@@ -1,0 +1,33 @@
+[
+    {
+      "id": "1",
+      "name": "Crankshaft V6 engine",
+      "price": "249.99"
+    },
+    {
+      "id": "2",
+      "name": "Brakes and Rotors Kit, ECCPP 2pcs Front Brake Rotors",
+      "price": "113.99"
+    },
+    {
+      "id": "3",
+      "name": "steering angle sensor calibration",
+      "price": "999.99"
+    },
+    {
+        "id": "4",
+        "name": "4-speed EV transmission",
+        "price": "1249.99"
+      },
+      {
+        "id": "5",
+        "name": "Handles 4 PCS Front Rear Driver",
+        "price": "34.99"
+      },
+      {
+        "id": "6",
+        "name": "Car GPS Navigator 7-inchs Touch Screen Real",
+        "price": "57.99"
+      }
+  ]
+  

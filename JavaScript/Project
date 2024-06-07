@@ -1,7 +1,7 @@
-## Project Status: MCSOLUTIONS
+## Project Status: MCAUTOMOTIVESOLUTIONS
 
 **Description:**
-MCSOLUTIONS is an ongoing project aimed at creating a web application for selling car parts. The project now benefits from the functionality of authentication, a MongoDB database, and an integrated API.
+MCAUTOMOTIVESOLUTIONS is an ongoing project aimed at creating a web application for selling car parts. The project now benefits from the functionality of authentication, a MongoDB database, and an integrated API.
 I've added the authentication system to provide users with a more secure experience and allow them to manage their accounts. Additionally, I've implemented a database to store and manage user and product data using MongoDB.
 My API enables communication between the client and server, facilitating interaction with the database and accessing data within the application.
 
@@ -9,8 +9,8 @@ Authentication System: Provides users with a secure experience and allows them t
 MongoDB Database: Stores and manages user and product data efficiently.
 API Integration: Enables communication between the client and server, facilitating interaction with the database and accessing data within the application.
 
-Moving forward, I'll continue to work on improving existing functionalities and adding new features to make the MCSOLUTIONS project more comprehensive and useful for users.
+Moving forward, I'll continue to work on improving existing functionalities and adding new features to make the MCAUTOMOTIVESOLUTIONS project more comprehensive and useful for users.
 
-Thank you for your patience and support in the development of MCSOLUTIONS!
+Thank you for your patience and support in the development of MCAUTOMOTIVESOLUTIONS!
 
-Expected Release Date: The MCSOLUTIONS project is anticipated to be available on GitHub by 26/05/2024.
+Expected Release Date: The MCAUTOMOTIVESOLUTIONS project is anticipated to be available on GitHub by 27-28/05/2024.

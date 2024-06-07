@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Migrations\\20240606215952_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|solutionrelative:TravelAgencyServer\\Migrations\\20240606215952_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|c:\\users\\mouad\\downloads\\smarttravel\\final back\u002Bfront\\travelagencyserver\\travelagencyserver\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|solutionrelative:travelagencyserver\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\travelagencyserver\\controllers\\destinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|solutionrelative:travelagencyserver\\controllers\\destinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\travelagencyserver\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|solutionrelative:travelagencyserver\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\travelagencyserver\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|solutionrelative:travelagencyserver\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\travelagencyserver\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|solutionrelative:travelagencyserver\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\travelagencyserver\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|solutionrelative:travelagencyserver\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\travelagencyserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|solutionrelative:travelagencyserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\travelagencyserver\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|solutionrelative:travelagencyserver\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Models\\dbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|solutionrelative:TravelAgencyServer\\Models\\dbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\travelagencyserver\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|solutionrelative:travelagencyserver\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\travelagencyserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192B71D9-D964-456E-9309-AAF3B45C0B7D}|TravelAgencyServer\\TravelAgencyServer.csproj|solutionrelative:travelagencyserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\appsettings.json",
+              "RelativeDocumentMoniker": "TravelAgencyServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\appsettings.json",
+              "RelativeToolTip": "TravelAgencyServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T21:58:18.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Models\\Destination.cs",
+              "RelativeDocumentMoniker": "TravelAgencyServer\\Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Models\\Destination.cs",
+              "RelativeToolTip": "TravelAgencyServer\\Models\\Destination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:06:57.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "TravelAgencyServer\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Models\\Question.cs",
+              "RelativeToolTip": "TravelAgencyServer\\Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:54:43.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "TravelAgencyServer\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Models\\Reservation.cs",
+              "RelativeToolTip": "TravelAgencyServer\\Models\\Reservation.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:55:44.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "TravelAgencyServer\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "TravelAgencyServer\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:07:19.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DestinationsController.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Controllers\\DestinationsController.cs",
+              "RelativeDocumentMoniker": "TravelAgencyServer\\Controllers\\DestinationsController.cs",
+              "ToolTip": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Controllers\\DestinationsController.cs",
+              "RelativeToolTip": "TravelAgencyServer\\Controllers\\DestinationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:22:52.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "TravelAgencyServer\\Controllers\\QuestionsController.cs",
+              "ToolTip": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "TravelAgencyServer\\Controllers\\QuestionsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwDcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:52:46.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240606215952_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Migrations\\20240606215952_Initial.cs",
+              "RelativeDocumentMoniker": "TravelAgencyServer\\Migrations\\20240606215952_Initial.cs",
+              "ToolTip": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Migrations\\20240606215952_Initial.cs",
+              "RelativeToolTip": "TravelAgencyServer\\Migrations\\20240606215952_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:59:52.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "TravelAgencyServer\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "TravelAgencyServer\\Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwFAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:51:49.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "TravelAgencyServer\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Models\\Account.cs",
+              "RelativeToolTip": "TravelAgencyServer\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:55:39.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Program.cs",
+              "RelativeDocumentMoniker": "TravelAgencyServer\\Program.cs",
+              "ToolTip": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Program.cs",
+              "RelativeToolTip": "TravelAgencyServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:43:16.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Models\\dbContext.cs",
+              "RelativeDocumentMoniker": "TravelAgencyServer\\Models\\dbContext.cs",
+              "ToolTip": "C:\\Users\\mouad\\Downloads\\SMARTTRAVEL\\final back\u002Bfront\\TravelAgencyServer\\TravelAgencyServer\\Models\\dbContext.cs",
+              "RelativeToolTip": "TravelAgencyServer\\Models\\dbContext.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwFMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:07:23.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
